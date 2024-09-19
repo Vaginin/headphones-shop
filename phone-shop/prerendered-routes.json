@@ -1,0 +1,8 @@
+{
+  "routes": [
+    "/",
+    "/basket",
+    "/favorites",
+    "/products"
+  ]
+}
